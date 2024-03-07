@@ -1,0 +1,179 @@
+html{
+    box-sizing: border-box;
+    padding-left: 15em;
+    padding-right: 15em;
+}
+body{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight:500;
+}
+
+header{
+    margin-top: 2em;
+}
+.logo{
+    float: left;
+    margin-left: 20px;
+}
+nav ul{
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.sign-in{
+    float: right;
+}
+.sign-in a{
+    background-color: #007bff;
+    padding: 8px 16px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+main{
+}
+h1{
+    margin-top: 1em;
+    font-size: 500%;
+}
+h2{
+    font-size: 350%;
+}
+
+
+section{
+    padding: 1em;
+    margin-top: 5em;
+}
+
+#home{
+    border: 1em;
+    margin-top: 8em;
+}
+.widget a{
+    background-color: whitesmoke;
+    padding: 8px 16px;
+    border-radius: 20px;
+    color:black;
+    text-decoration: none;
+}
+.new{
+    background-color: #007bff;
+    padding: 5px 12px;
+    border-radius: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+.start a{
+    background-color: #007bff;
+    padding: 5px 12px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+.contact a{
+    background-color: whitesmoke;
+    padding: 8px 16px;
+    border-radius: 5px;
+    color:black;
+    text-decoration: none;
+}
+.connect{
+    background-color: #007bff;
+    padding-top: 2em;
+    padding-bottom: 7em;
+    padding-left: 5em;
+    border-radius: 7px;
+    color: #fff;
+}
+.directpay{
+    background-color: rgb(205, 218, 235);
+    padding-top: 2em;
+    padding-bottom: 16em;
+    padding-left: 2em;
+    padding-right: 10em;
+    border-radius: 5px;
+    color:black;
+    float: left;
+}
+.percept{
+    background-color: black;
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-bottom: 20em;
+    padding-right: 2em;
+    margin-left: 60%;
+    marggin-right:6em;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50%;
+}
+.comment1{
+    background-color: whitesmoke;
+    padding-top: 3em;
+    padding-bottom: 5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 10px;
+    color:black;
+    float: left;
+}
+.comment2{
+    background-color: whitesmoke;
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-bottom: 2.5em;
+    padding-right: 2em;
+    border-radius: 5px;
+    color: black;
+    margin-left: 50%;
+}
+
+#gs{
+    background-color: blue;
+
+}
+.api{
+    background-color: white;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    padding-left: 5em;
+    border-radius: 7px;
+    color: black;
+}
+.sdk{
+    background-color: white;
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-bottom: 2em;
+    padding-right: 2em;
+    border-radius: 5px;
+    color: black;
+    margin-right: 75%;
+}
+.support{
+    background-color: white;
+    display: inline-block;
+    width: 250px;
+    height:200px;
+    border-radius: 5px;
+    color: black;
+    margin: 25px;
+}
+.cont{
+    text-align: center;
+}
+.about{
+    background-color: black;
+    color: white;
+}
+
+
